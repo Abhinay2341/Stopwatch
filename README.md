@@ -1,4 +1,4 @@
-Unit Convertor
+Stopwatch
 
 Converts one unit to other units
 
